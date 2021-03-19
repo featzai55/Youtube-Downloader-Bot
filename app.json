@@ -10,8 +10,8 @@
   "website": "https://github.com/aryanvikash/Youtube-Downloader-Bot",
   "env": {
         "API_ID": "2995136"
-        "API_HASH": "3c3766c8df153afb9e5ebfe7314af305"
-        "BOT_TOKEN": "1601997600:AAEVfPkaXGyKmOQQX8I5TjFKaWoUMGBCyTw"
+        "API_HASH" : "3c3766c8df153afb9e5ebfe7314af305"
+        "BOT_TOKEN" : "1601997600:AAEVfPkaXGyKmOQQX8I5TjFKaWoUMGBCyTw"
   },
       "buildpacks": [
         {"url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"},
